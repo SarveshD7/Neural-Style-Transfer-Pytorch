@@ -8,7 +8,7 @@ alpha = 0.1
 
 beta = 1
 
-lr = 0.01
+Learning rate (Adam optimizer) = 0.01
 
 # Result - 
 <img align="left" src="https://raw.githubusercontent.com/SarveshD7/Neural-Style-Transfer-Pytorch/main/NST_Output.png" alt="NST Output | C" width="1000px"/>
