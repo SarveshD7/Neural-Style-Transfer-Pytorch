@@ -1,5 +1,6 @@
 # Neural-Style-Transfer-Pytorch
 Implementation of Neural Style Transfer in Pytorch using Transfer Learning  (VGG19) 
+Takes in a content image and a style image (here Monet) and converts the content image's style into the style image.
 Used 5 layers for the content and style layer activations.
 # Hyperparameters used - 
 Epochs = 100
